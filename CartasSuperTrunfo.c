@@ -1,3 +1,4 @@
+NIVEL NOVATO
 #include <stdio.h> 
 int main() {
 //-------- Carta: 1 -------
